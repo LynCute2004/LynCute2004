@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on VietNam
+- 🌱 I’m currently learning JavaScript
+- 📫 Contact me in : 
+<!-- ![Discord](https://discord.c99.nl/widget/theme-3/725945760629129277.png) -->
+<div align="center">
+<br><br><br><br>
+<a align="center" href="https://discord.c99.nl/widget/theme-5/573805531773272064.png">
+<img align="center" src="https://discord.c99.nl/widget/theme-5/573805531773272064.png" alt="Discord"/>
+</a>
+ </div>
+<br><br>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=LynCute2004&theme=cobalt)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LynCute2004&layout=compact)
+
+
