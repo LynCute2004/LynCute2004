@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on VietNam
-- 🌱 I’m currently learning JavaScript
-- 📫 My Discord : 
+- 🔭 I’m currently working: on VietNam
+- 🌱 I’m currently learning: JavaScript
+- 📫 Contact me : 
 <!-- ![Discord](https://discord.c99.nl/widget/theme-3/725945760629129277.png) -->
 <div align="center">
 <br><br><br><br>
