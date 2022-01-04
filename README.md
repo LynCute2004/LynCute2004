@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on VietNam
 - 🌱 I’m currently learning JavaScript
-- 📫 Contact me in : 
+- 📫 My Discord : 
 <!-- ![Discord](https://discord.c99.nl/widget/theme-3/725945760629129277.png) -->
 <div align="center">
 <br><br><br><br>
-<a align="center" href="https://discord.c99.nl/widget/theme-5/573805531773272064.png">
-<img align="center" src="https://discord.c99.nl/widget/theme-5/573805531773272064.png" alt="Discord"/>
+<a align="center" href="https://discord.c99.nl/widget/theme-3/573805531773272064.png">
+<img align="center" src="https://discord.c99.nl/widget/theme-3/573805531773272064.png" alt="Discord"/>
 </a>
  </div>
 <br><br>
