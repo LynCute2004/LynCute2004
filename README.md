@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Lyn!
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23C5B9FF&lines=Hi%2C+I'm+Lyn+%F0%9F%91%8B;I+am+developer+bot+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <!--
 **LynCute2004/LynCute2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working: on VietNam
-- 🌱 I’m currently learning: JavaScript
-- 📫 Contact me : 
+- 🌱 **I’m currently learning:** &nbsp; <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+
+- 📫 **Contact me:** [LynCute#2004](https://discordapp.com/users/573805531773272064)
 <!-- ![Discord](https://discord.c99.nl/widget/theme-3/725945760629129277.png) -->
 <div align="center">
 <br><br><br><br>
