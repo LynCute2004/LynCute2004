@@ -1,4 +1,4 @@
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23C5B9FF&lines=Hi%2C+I'm+Lyn+%F0%9F%91%8B;I+am+developer+JavaScript+bot)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23C5B9FF&lines=Hi%2C+I'm+Lyn+%F0%9F%91%8B;I+am+JavaScript+developer+bot)](https://git.io/typing-svg)
 
 <!--
 **LynCute2004/LynCute2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
