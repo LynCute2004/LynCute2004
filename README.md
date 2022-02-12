@@ -26,6 +26,8 @@ Here are some ideas to get you started:
  </div>
 <br><br>
 
+# ⚡ GitHub Stats
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=LynCute2004&theme=cobalt)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LynCute2004&layout=compact)
