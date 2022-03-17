@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 # ⚡ GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=LynCute2004&theme=cobalt)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=lyncute2004&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LynCute2004&layout=compact)
 
