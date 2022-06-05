@@ -3,6 +3,7 @@
 - 🌱 **I’m currently learning:** JavaScript, HTML,...
 
 - 📫 **Contact me:** [LynCute#2004](https://discordapp.com/users/573805531773272064)
+![image](https://user-images.githubusercontent.com/52123370/172034851-bf5cabd8-cb51-48d5-8250-32470ecbbc0b.png)
 <!-- ![Discord](https://discord.c99.nl/widget/theme-3/725945760629129277.png) -->
 <div align="center">
 <br><br><br><br>
