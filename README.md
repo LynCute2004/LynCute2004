@@ -1,9 +1,9 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23C5B9FF&lines=Hi%2C+I'm+Lyn+%F0%9F%91%8B;I+am+JavaScript+developer+bot)](https://git.io/typing-svg)
 
 - 🌱 **I’m currently learning:** JavaScript, HTML,...
-
+- ✨ **My Info:** https://lyncute04.carrd.co/
 - 📫 **Contact me:** [LynCute#2004](https://discordapp.com/users/573805531773272064)
-![image](https://user-images.githubusercontent.com/52123370/172034851-bf5cabd8-cb51-48d5-8250-32470ecbbc0b.png)
+
 <!-- ![Discord](https://discord.c99.nl/widget/theme-3/725945760629129277.png) -->
 <div align="center">
 <br><br><br><br>
@@ -14,7 +14,6 @@
 <br><br>
 
 # ⚡ GitHub Stats
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=lyncute2004&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LynCute2004&layout=compact)
