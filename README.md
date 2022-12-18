@@ -5,8 +5,6 @@
 <!-- ![Discord](https://discord.c99.nl/widget/theme-3/725945760629129277.png) -->
 <div align="center"><br><br><br><br><a align="center" href="https://discord.c99.nl/widget/theme-3/573805531773272064.png"><img align="center" src="https://discord.c99.nl/widget/theme-3/573805531773272064.png" alt="Discord"/></a></div><br><br>
 
-![Save the Date](https://user-images.githubusercontent.com/52123370/172038020-f3e02379-fa76-406d-bd1f-a109e7bc835a.jpg)
-
 # ⚡ GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=lyncute2004&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
