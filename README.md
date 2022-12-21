@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="https://discord.com/users/573805531773272064">
-    <img src="https://lanyard.cnrad.dev/api/573805531773272064?theme=light&bg=FF6A6A&borderRadius=15px&animated=true&idleMessage=Nothing%20 UwU%20">
+    <img src="https://lanyard.cnrad.dev/api/573805531773272064?theme=light&bg=FF6A6A&borderRadius=15px&animated=true&idleMessage=Nothing%20UwU%20">
   </a>
 </div>
 
