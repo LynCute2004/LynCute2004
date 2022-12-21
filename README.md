@@ -3,7 +3,11 @@
 - ✨ **My Info:** https://lyncute04.carrd.co/
 - 📫 **Contact me:** [LynCute#2004](https://discordapp.com/users/573805531773272064)
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/573805531773272064?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/573805531773272064)
+<div align="center">
+  <a href="https://discord.com/users/573805531773272064">
+    <img src="https://lanyard.cnrad.dev/api/573805531773272064?theme=light&bg=FF6A6A&borderRadius=15px&animated=true&idleMessage=A%20litte%20cat%20:3%20(.%20%E2%9D%9B%20%E1%B4%97%20%E2%9D%9B.)">
+  </a>
+</div>
 
 # ⚡ GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=lyncute2004&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
