@@ -10,8 +10,9 @@
 </div>
 
 # ⚡ GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lyncute2004&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LynCute2004&layout=compact)
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=LynCute2004&show_icons=true&include_all_commits=true&hide_border=true&theme=synthwave" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LynCute2004&layout=compact&hide_border=true&theme=synthwave" />
+</div>
 
 
