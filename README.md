@@ -3,7 +3,7 @@
 - ✨ **My Info:** https://lyncute04.carrd.co/
 - 📫 **Contact me:** 
 <p align="left">
-<a href="[https://discord.com/users/573805531773272064]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="PcUVWApWN3" height="30" width="40" /></a>
+<a href="https://discord.com/users/573805531773272064" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="PcUVWApWN3" height="30" width="40" /></a>
 <a href="https://github.com/LynCute2004"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="PcUVWApWN3" height="30" width="40" /></a>
 </p>
 
