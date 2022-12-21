@@ -2,8 +2,8 @@
 - 🌱 **I’m currently learning:** JavaScript, HTML,...
 - ✨ **My Info:** https://lyncute04.carrd.co/
 - 📫 **Contact me:** [LynCute#2004](https://discordapp.com/users/573805531773272064)
-<!-- ![Discord](https://discord.c99.nl/widget/theme-3/725945760629129277.png) -->
-<div align="center"><br><br><br><br><a align="center" href="https://discord.c99.nl/widget/theme-3/573805531773272064.png"><img align="center" src="https://discord.c99.nl/widget/theme-3/573805531773272064.png" alt="Discord"/></a></div><br><br>
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/573805531773272064?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/573805531773272064)
 
 # ⚡ GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=lyncute2004&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
