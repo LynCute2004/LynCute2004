@@ -1,6 +1,6 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23C5B9FF&lines=Hi%2C+I'm+Lyn+%F0%9F%91%8B;I+am+JavaScript+developer+bot)](https://git.io/typing-svg)
 - 🌱 **I’m currently learning:** JavaScript, HTML,...
-- ✨ **My Info:** https://lyncute04.carrd.co/
+- ✨ **My Info:** https://lynn04.carrd.co
 - 📫 **Contact me:** 
 <p align="left">
 <a href="https://discord.com/users/573805531773272064" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="PcUVWApWN3" height="30" width="40" /></a>
